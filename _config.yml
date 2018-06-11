@@ -8,6 +8,8 @@ url:                 g1yn.github.io
 baseurl:             ''
 paginate:            5
 
+excerpt_separator:   <!--more-->
+
 # About/contact
 # author:
 #  name:              Glyn Davies
