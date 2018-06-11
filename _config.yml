@@ -1,4 +1,5 @@
 permalink:           pretty
+relative_permalinks: true
 
 # Setup
 title:               g1yn
