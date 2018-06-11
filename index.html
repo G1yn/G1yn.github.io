@@ -3,13 +3,6 @@ layout: default
 title: Home
 ---
 
-The site url is: 
-{{site.url}}
-
-The baseurl is: 
-{{site.baseurl}}
-
-
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -21,7 +14,7 @@ The baseurl is:
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
   {% endfor %}
 </div>
