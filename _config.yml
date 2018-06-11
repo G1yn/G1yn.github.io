@@ -4,7 +4,7 @@ permalink:           pretty
 title:               g1yn
 tagline:             "Glyn's blog"
 description:         'A place for me to record 100DaysOfCode and to log a few thoughts'
-url:                 https://g1yn.github.io
+url:                 g1yn.github.io
 baseurl:             ''
 paginate:            5
 
