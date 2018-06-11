@@ -9,10 +9,10 @@ url:                 https://g1yn.github.io
 paginate:            5
 
 # About/contact
-author:
-  name:              Glyn Davies
-  url:               https://twitter.com/drglyndavies
-  email:             
+# author:
+#  name:              Glyn Davies
+#  url:               https://twitter.com/drglyndavies
+#  email:             
 
 # Custom vars
 version:             1.0.0
