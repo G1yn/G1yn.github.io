@@ -2,7 +2,7 @@
 title:               g1yn
 tagline:             "Glyn's blog"
 description:         'A place for me to record 100DaysOfCode and to log a few thoughts'
-url:                 http://g1yn.github.io
+url:                 https://g1yn.github.io
 baseurl:             ''
 paginate:            5
 
