@@ -2,6 +2,7 @@
 layout: post
 title: D0 Preparing for 100 days of code
 date: 2018-06-05 23:02
+categories: 100days
 ---
 
 I've decided to do the #100 days of code challenge and I'll call today day zero. I've spent well over an hour learning a bit about GitHub pages and setting up this simple blog based on the Hacker theme.  Maybe I'll improve it over time but for now it's capable of logging my progress and keeping a few notes which was the purpose of setting it up.
