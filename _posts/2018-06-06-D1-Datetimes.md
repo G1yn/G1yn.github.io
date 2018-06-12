@@ -2,6 +2,7 @@
 layout: post
 title: Day 1
 date: 2018-06-06
+categories: 100days
 ---
 I just tweeted "Day 1: #100DaysOfCode progress: today I worked on Playing with Datetimes / D1 (lectures) https://talkpython.fm/100days?s=pybites #Python @pybites @talkpython. I may try to log my progress at g1yn.github.io"
 <!--more-->
