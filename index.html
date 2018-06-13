@@ -15,7 +15,7 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {% if post.categories %} | 
       {% for category in post.categories %}
-        <a href="{{ site.baseurl }}/categories/#{{category|slugize}}">{{ category }}</a>
+        <a href="{{ site.baseurl }}/categories/#{{category|slugize}}" class="post-tag">{{ category }}</a>
       {% endfor %}
     {% endif %}
   
